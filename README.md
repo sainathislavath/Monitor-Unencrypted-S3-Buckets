@@ -28,31 +28,31 @@ Created the following S3 buckets:
 
 ## Screenshot
 - Create 2 S3 Buckets
-![Create S3 Bucket](Screenshot/3.1.png)
+![Create S3 Bucket](screenshots/3.1.png)
 
 - Make it unencrypted
-![Make it unencrypted](Screenshot/3.5.png)
+![Make it unencrypted](screenshots/3.5.png)
 
 - 2nd S3 Bucket
-![Create Se Bucket](Screenshot/3.4.png)
+![Create Se Bucket](screenshots/3.4.png)
 
 - Make it encrypted
-![Create S3 Bucket](Screenshot/3.2.png)
+![Create S3 Bucket](screenshots/3.2.png)
 
 - Create IAM Role
-![Create IAM Role](Screenshot/3.6.png)
+![Create IAM Role](screenshots/3.6.png)
 
 - Add Permissions (AmazonS3ReadOnlyAccess)
-![Add Permissions](Screenshot/3.7.png)
+![Add Permissions](screenshots/3.7.png)
 
 -Review:
-![Review](Screenshot/3.8.png)
+![Review](screenshots/3.8.png)
 
 - Create Lambda Function
-![Create Lambda Function](Screenshot/3.9.png)
+![Create Lambda Function](screenshots/3.9.png)
 
 - Test event
-![Test Event](Screenshot/3.10.png)
+![Test Event](screenshots/3.10.png)
 
 Result:
-![Result](Screenshot/3.11.png)
+![Result](screenshots/3.11.png)
